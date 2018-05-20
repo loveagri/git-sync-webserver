@@ -2,7 +2,7 @@
 
 $secret = 'houdunren';
 
-$path = 'home/wwwroot/default';
+$path = '/home/wwwroot/default';
 
 
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
