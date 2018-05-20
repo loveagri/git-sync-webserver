@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>
-		<a href="http://baidu.com" >baidu</a>
+		<a href="http://baidu.com" >baidu1</a>
 	</h1>
 </body>
 </html>
